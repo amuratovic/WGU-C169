@@ -19,7 +19,7 @@ public class Roster {
              "2,Suzan,Erickson,Erickson_1990@gmailcom,19,91,72,85",
              "3,Jack,Napoli,The_lawyer99yahoo.com,19,85,84,87",
              "4,Erin,Black,Erin.black@comcast.net,22,91,98,82",
-             "5,My,Name,myemail@wgu.com,28,86,97,79"};
+             "5,FirstName,LastName,myemail@wgu.com,28,86,97,79"};
              //A.  Include your personal information in the last item of the table above.
     static ArrayList<Student> studentList = new ArrayList<>();
 
